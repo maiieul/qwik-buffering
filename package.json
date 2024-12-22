@@ -28,9 +28,9 @@
     "qwik": "qwik"
   },
   "devDependencies": {
-    "@builder.io/qwik": "1.3.1",
-    "@builder.io/qwik-city": "1.3.1",
-    "@qwik-ui/headless": "0.4.1",
+    "@builder.io/qwik": "1.5.7",
+    "@builder.io/qwik-city": "1.5.7",
+    "@qwik-ui/headless": "https://pkg.pr.new/qwikifiers/qwik-ui/@qwik-ui/headless@1029",
     "@qwik-ui/styled": "^0.2.0",
     "@qwik-ui/utils": "^0.3.1",
     "@qwikest/icons": "^0.0.13",
@@ -42,7 +42,7 @@
     "body-scroll-lock-upgrade": "^1.1.0",
     "class-variance-authority": "^0.7.0",
     "eslint": "8.57.0",
-    "eslint-plugin-qwik": "1.3.1",
+    "eslint-plugin-qwik": "1.5.7",
     "nx": "^20.3.0",
     "postcss": "^8.4.39",
     "prettier": "3.3.3",
