@@ -40,3 +40,8 @@ lerna-debug.log*
 # Yarn
 .yarn/*
 !.yarn/releases
+
+
+.nx/cache
+.nx/workspace-data
+.vercel
